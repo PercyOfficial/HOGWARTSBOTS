@@ -2,6 +2,9 @@
 [Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
 
 # HOGWARTSBOTS
+<p align = center>
+<img src="https://telegra.ph/file/ba3c84393f9fb34f41ea1.jpg" width =400 Height=400 ></img>
+</p>
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hirushakeeth/HOGWARTSBOTS)
 
